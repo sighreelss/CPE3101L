@@ -1,2 +1,2 @@
 # CPE3101L
-Introduction to Hardware Description Language (HDL)
+**Introduction to Hardware Description Language (HDL).** This course introduces a hardware description language (HDL), particularly Verilog, as a computer-based design tool for creating digital systems using Field Programmable Gate Arrays (FPGAs). It covers fundamental concepts and its basic building blocks, with emphasis on synthesis constructs to describe the hardware structures and behavior of logic circuits and digital systems. Simulation structures are also introduced for functional verification of modeled digital systems. Finally, logic synthesis for FPGA implementation culminates the introductory design flow to allow physical I/O interfacing and prototyping.
